@@ -1,5 +1,11 @@
 ## Welcome to ENGR 454 Vibrations
 
+### Jupyter Notebooks
+#### 1.0 Introduction
+__1.3 Developing Linear Models__
+
+* Cantilever Beam Deflection Model [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/drfridline/ENGR454-Vibrations/master?filepath=Jupyter%20Notebooks%2FModule%2001%20Introduction%2F1.3%20Developing%20Linear%20Models%2FCantileverBeamDeflectionModel.ipynb)
+
 You can use the [editor on GitHub](https://github.com/drfridline/ENGR454-Vibrations/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
