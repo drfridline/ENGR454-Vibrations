@@ -4,7 +4,7 @@ This repository contains the various Jupyter notebooks for the course.
 ### Introduction
 1. Introduction to Python and Jupyter Notebooks. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/drfridline/ENGR454-Vibrations/master?filepath=PythonIntroduction.ipynb)
 
-2. Developing Linear Models
+2. Developing Linear Models [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/drfridline/ENGR454-Vibrations/master?filepath=CantileverBeamDeflectionModel.ipynb)
 
 3. Parameter Estimation
 
