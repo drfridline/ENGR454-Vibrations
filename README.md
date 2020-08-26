@@ -2,7 +2,7 @@
 This repository contains the various Jupyter notebooks for the course.
 
 ### Introduction
-1. Introduction to Python and Jupyter Notebooks.
+1. Introduction to Python and Jupyter Notebooks. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/drfridline/ENGR454-Vibrations/master?filepath=PythonIntroduction.ipynb)
 
 
 You can use the [editor on GitHub](https://github.com/drfridline/ENGR454-Vibrations/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
