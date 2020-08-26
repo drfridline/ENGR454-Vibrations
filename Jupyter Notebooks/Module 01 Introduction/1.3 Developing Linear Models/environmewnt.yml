@@ -1,0 +1,7 @@
+name: linearmodels-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  
