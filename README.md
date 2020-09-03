@@ -8,7 +8,7 @@ This repository contains the various Jupyter notebooks for the course.
 
 ### Solving Differential Equations
 1. General First-Order Form. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/drfridline/ENGR454-Vibrations/master?filepath=GeneralFirstOrderForm.ipynb)
-2. Hydraulic System Leak.
+2. Hydraulic System Leak. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/drfridline/ENGR454-Vibrations/master?filepath=HydraulicSystemLeak.ipynb)
 3. Simple Grown Model.
 
 You can use the [editor on GitHub](https://github.com/drfridline/ENGR454-Vibrations/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
