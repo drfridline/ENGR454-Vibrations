@@ -2,7 +2,7 @@ numpy==1.18.5
 matplotlib==3.2.2
 pandas==1.0.5
 scipy==1.5.0
-Spicy.signal==1.5.0
+scipy.signal==1.5.0
 IPython==7.16.1
 ipywidgets==7.5.1
 sympy==1.6.1
