@@ -12,4 +12,4 @@ This repository contains the various Jupyter notebooks for the course.
 3. Simple Grown Model. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/drfridline/ENGR454-Vibrations/master?filepath=SimpleGrowthModel.ipynb)
 
 ### Response Parameters
-1. Spring Mass Damper Example.  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/drfridline/ENGR454-Vibrations/master?filepath=SpringMassDamperSystem.ipynb)
+1. Spring Mass Damper Example. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/drfridline/ENGR454-Vibrations/master?filepath=SpringMassDamperExample.ipynb)
