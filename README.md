@@ -13,3 +13,6 @@ This repository contains the various Jupyter notebooks for the course.
 
 ### Response Parameters
 1. Spring Mass Damper Example. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/drfridline/ENGR454-Vibrations/master?filepath=SpringMassDamperExample.ipynb)
+
+### Laplace Transform Methods in Python
+1. Partial Fraction Expansion. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/drfridline/ENGR454-Vibrations/master?filepath=PartialFractionExpansionExamples.ipynb)
