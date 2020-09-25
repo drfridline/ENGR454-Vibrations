@@ -16,3 +16,4 @@ This repository contains the various Jupyter notebooks for the course.
 
 ### Laplace Transform Methods in Python
 1. Partial Fraction Expansion. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/drfridline/ENGR454-Vibrations/master?filepath=PartialFractionExpansionExamples.ipynb)
+2. Solving ODEs with Python. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/drfridline/ENGR454-Vibrations/master?filepath=ODESolvers.ipynb)
